@@ -7,3 +7,6 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 print("HELLO WORLD")
+
+# virtualenv -p python3 <desired-path> #Create Virtual Environment
+# pip3 install matplotlib
